@@ -7,7 +7,10 @@ If anything is broken please DM me so I can fix it.
 
 Discord: **bjonk**
 
-## [Paradox Build]
+## [Paradox Build (dmg)]
+![](https://i.imgur.com/QzCsQQn.png)
+
+## [Paradox Build (old)]
 ![](https://i.imgur.com/DofUmPv.png)
 
 ## [Lash Build]
