@@ -7,6 +7,14 @@ If anything is broken please DM me so I can fix it.
 
 Discord: **bjonk**
 
+## Table of Contents
+
+* [Paradox Build (dmg)](#paradox-build-dmg)
+* [Paradox Build (old)](#paradox-build-old)
+* [Lash Build](#lash-build)
+* [Shiv Build](#shiv-build)
+* [Vindicta Build](#vindicta-build)
+
 ## [Paradox Build (dmg)]
 ![](https://i.imgur.com/QzCsQQn.png)
 
