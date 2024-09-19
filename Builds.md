@@ -9,19 +9,19 @@ If anything is broken please DM me so I can fix it.
 Discord: **bjonk**
 
 ## [Paradox Build (dmg)]
-![](https://imgur.com/a/RNZ9nlk)
+![](https://i.imgur.com/CVj0hc0.png)
 
 ## [Vindicta Build]
-![](https://imgur.com/a/qSjvlZQ)
+![](https://i.imgur.com/ThruH86.png)
 
 ## [Shiv Build]
-![](https://imgur.com/a/mtPMyYC)
+![](https://i.imgur.com/wJkR47I.png)
 
 ## [Lash Build]
-![](https://imgur.com/a/dr1Zi6F)
+![](https://i.imgur.com/woLtVnA.png)
 
 ## [Infernus Build]
-![](https://imgur.com/a/XeIMb8G)
+![](https://i.imgur.com/v2lvv9J.png)
 
 ## [Haze Build]
-![](https://imgur.com/a/f6CQ8wh)
+![](https://i.imgur.com/Yd1cooj.png)
